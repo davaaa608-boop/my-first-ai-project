@@ -1,2 +1,2 @@
-# my-first-ai-project
-Миний анхны AI код
+print("Hello AI and 
+GitHub!")
